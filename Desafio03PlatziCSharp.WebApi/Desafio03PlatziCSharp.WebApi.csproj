@@ -99,6 +99,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Desafio03PlatziCSharpWebApiContext.cs" />
     <Compile Include="Models\Imagen.cs" />
     <Compile Include="Models\Media.cs" />
