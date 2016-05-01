@@ -152,6 +152,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ImagenesController.cs" />
     <Compile Include="Controllers\ImagenesWebController.cs" />
     <Compile Include="Controllers\VideosController.cs" />
@@ -186,6 +187,7 @@
     <Content Include="Views\ImagenesWeb\Details.cshtml" />
     <Content Include="Views\ImagenesWeb\Edit.cshtml" />
     <Content Include="Views\ImagenesWeb\Index.cshtml" />
+    <None Include="Views\Home\Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
