@@ -8,9 +8,8 @@ namespace Desafio01PlatziCSharp
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Encabezado("Escribimos en un archivo binario la lista de Profesores");
 
             var listaProfesores = new List<Profesor>();
 
